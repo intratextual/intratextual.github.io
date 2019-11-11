@@ -38,15 +38,17 @@ layout: default
    {% endfor %}
  </div>
 
- <small>
-    {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a>
-    {% endfor %}
-</small>
-<!-- {{page.tags | capitalize | join: ', '}}
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%} -->
+ <div class="post-tags">
+   {% if post %}
+     {% assign categories = post.tags %}
+   {% else %}
+     {% assign categories = page.tags %}
+   {% endif %}
+   {% for category in categories %}
+   <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{category}}</a>
+   {% unless forloop.last %}&nbsp;{% endunless %}
+   {% endfor %}
+ </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

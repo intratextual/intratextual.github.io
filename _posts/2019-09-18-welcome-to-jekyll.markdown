@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-09-18 01:01:50 -0500
 categories: jekyll update
+tags: [prueba, first, jekyll]
 permalink: /:categories/:title.html
 author: alberto_leon
 ---

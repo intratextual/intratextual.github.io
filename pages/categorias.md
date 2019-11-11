@@ -3,6 +3,8 @@ layout: page
 title: Categorías
 permalink: /categorias/
 ---
+
+
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
