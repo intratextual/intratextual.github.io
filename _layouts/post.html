@@ -51,6 +51,8 @@ layout: default
    {% endfor %}
  </div>
 
+ {% stealthy_share_buttons: facebook, twitter, reddit %}
+
 {% include botones_compartir.html %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
