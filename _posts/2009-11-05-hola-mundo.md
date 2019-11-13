@@ -4,7 +4,7 @@ title:  "Hola Mundo"
 date:   2019-11-05
 categories: [Draft, Sin destino]
 tags: [prueba, edición, cosas]
-permalink: /:categories/:title.html
+permalink: /:title.html
 author: alberto_leon
 ---
 

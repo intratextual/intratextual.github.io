@@ -1,0 +1,13 @@
+- title: "Inicio"
+  href: "/"
+
+- title: "Categorías"
+  href: "/categorias/"
+
+- title: "Etiquetas"
+  href: "/tags/"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
