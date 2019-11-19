@@ -1,9 +1,7 @@
 - title: "Inicio"
   url: "/"
-
 - title: "Categorías"
   url: "/categorias/"
-
 - title: "Etiquetas"
   url: "/tags/"
   sublinks:
