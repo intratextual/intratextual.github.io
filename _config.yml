@@ -20,7 +20,7 @@
 
 title: Semánticas
 email: hola@mrleon.space
-description: >- # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
   Log de Mrleon, todas las opiniones aquí expresadas, así como los contenidos, son responsabilidad de su autor. Para cualquier duda, sugerencia o reclamo, puede contactarme a mrleon[at]mrleon[dot]space.
 
   Happy editing // Happy Hacking ;)
@@ -28,6 +28,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Fuck DRM .|.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# jekyll-paginate configuration
+paginate: 10
+
 twitter_username: intratextual
 github_username:  paratexto
 
@@ -36,6 +39,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -49,10 +53,12 @@ plugins:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+#  - Gemfile
+#  - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+ #include: ["_pages"]
+#  excerpt_separator: <!--más-->

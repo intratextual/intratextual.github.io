@@ -15,10 +15,22 @@ layout: default
     <span>
         por <a href="{{ author.web }}">{{ author.name }}</a> <a href="https://www.twitter.com/{{ author.twitter}}" class="icon fa-twitter"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>
     </span>
-
-
-{% endif %}</p>
-
+    <br>
+    (última modificación : {{ page.date | date: '%B %d, %Y' }} )
+    <div class="post-tags">
+      {% if post %}
+        {% assign categories = post.tags %}
+      {% else %}
+        {% assign categories = page.tags %}
+      {% endif %}
+      {% for category in categories %}
+      <a class="label label-success" href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+{% endif %}
+</p>
+<hr class="separator">
 {% seo %}
   </header>
 
@@ -34,24 +46,10 @@ layout: default
      {% assign categories = page.categories %}
    {% endif %}
    {% for category in categories %}
-   <a href="{{site.baseurl}}/categorias/#{{category|slugize}}">{{category}}</a>
-   {% unless forloop.last %}&nbsp;{% endunless %}
+   <a class="label categoria" href="{{site.baseurl}}/categorias/#{{category|slugize}}">{{category}}</a>
+   {% unless forloop.last %}&nbsp; | &nbsp;{% endunless %}
    {% endfor %}
  </div>
-
- <div class="post-tags">
-   {% if post %}
-     {% assign categories = post.tags %}
-   {% else %}
-     {% assign categories = page.tags %}
-   {% endif %}
-   {% for category in categories %}
-   <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{category}}</a>
-   {% unless forloop.last %}&nbsp;{% endunless %}
-   {% endfor %}
- </div>
-
- {% stealthy_share_buttons: facebook, twitter, reddit %}
 
 {% include botones_compartir.html %}
 

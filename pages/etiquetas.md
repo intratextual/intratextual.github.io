@@ -4,21 +4,49 @@ title: Etiquetas
 permalink: /tags/
 ---
 
+{% comment%}
+Here we generate all the tags.
+{% endcomment%}
 
-<div id="archives">
-{% for tag in site.tags %}
-  <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <div id="#{{ tags_name | slugize }}"></div>
-    <p></p>
-
-    <h3 class="category-head">{{ tag_name }}</h3>
-    <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+{% assign ttags = post.tags | join:'|' | append:'|' %}
+{% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
-</div>
+
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% assign tags = "" %}
+
+{% for tag in rawtags %}
+{% if tag != "" %}
+
+{% if tags == "" %}
+{% assign tags = tag | split:'|' %}
+{% endif %}
+
+{% unless tags contains tag %}
+{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+
+<br/>
+
+{% for tag in tags %}
+<a class="label label-success" href="#{{ tag | slugify }}" > {{ tag }} </a> &nbsp;
+{% endfor %}
+{% for tag in tags %}
+<h4 id="{{ tag | slugify }}">{{ tag }}</h4>
+<ul>
+  {% for post in site.posts %}
+  {% if post.tags contains tag %}
+  <li>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+{% endfor %}

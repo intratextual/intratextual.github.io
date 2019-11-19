@@ -1,0 +1,13 @@
+- title: "Inicio"
+  url: "/"
+
+- title: "Categorías"
+  url: "/categorias/"
+
+- title: "Etiquetas"
+  url: "/tags/"
+  sublinks:
+    - title: "ejemplo1"
+      url: "#"
+    - title: "ejemplo2"
+      url: "#"
