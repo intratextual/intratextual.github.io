@@ -4,6 +4,8 @@
   url: "/categorias/"
 - title: "Etiquetas"
   url: "/tags/"
+- title: "Donaciones"
+  url: "/dona/"
   sublinks:
     - title: "ejemplo1"
       url: "#"

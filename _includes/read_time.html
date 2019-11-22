@@ -1,0 +1,5 @@
+
+{% assign word_count = content | number_of_words %}
+{% assign read_time = word_count | divided_by: 180.0 | round %}
+
+{{ read_time | append: ' min.' | prepend: 'Tiempo de lectura: ' }}

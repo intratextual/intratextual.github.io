@@ -7,16 +7,19 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {% assign author = site.data.authors[page.author] %}
 {% if author %}
     <span>
-        por <a href="{{ author.web }}">{{ author.name }}</a> <a href="https://www.twitter.com/{{ author.twitter}}" class="icon fa-twitter"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>
+        por <a href="{{ author.web }}">{{ author.name }}</a>
     </span>
     <br>
-    (última modificación : {{ page.date | date: '%B %d, %Y' }} )
+    {% if page.last_modified_at %}
+      (última modificación : {{ page.last_modified_at | date: '%B %d, %Y' }} )
+    {% endif %}
+
     <div class="post-tags">
       {% if post %}
         {% assign categories = post.tags %}
@@ -30,6 +33,7 @@ layout: default
     </div>
 {% endif %}
 </p>
+{% include read_time.html %}
 <hr class="separator">
 {% seo %}
   </header>

@@ -1,15 +1,17 @@
 <header class="site-header" role="banner">
-<nav class="nav-site">
-  <a class="site-title banner" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+<nav class="nav-site" id="navbar">
+
   <input type="checkbox" id="check">
       <label for="check" class="checkbtn">
         <i class="fas fa-bars"></i>
-        <link rel="stylesheet" href="style.css">
    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
       </label>
     {% include nav.html %}
 
     <div class="trigger">
+      <div class="contenedor">
+        <a class="banner" href="./"><img class="banner-image" src="/assets/images/banner2.png"/></a>
+      </div>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
@@ -20,3 +22,18 @@
   </nav>
 
 </header>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>

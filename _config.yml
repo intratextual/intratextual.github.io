@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 paginate: 10
 
 twitter_username: intratextual
-github_username:  paratexto
+github_username:  intratextual
 
 google_analytics: UA-152871084-1
 
@@ -41,7 +41,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,4 +62,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
  #include: ["_pages"]
-#  excerpt_separator: <!--más-->

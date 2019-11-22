@@ -18,6 +18,7 @@ Here we generate all the tags.
 
 {% assign tags = "" %}
 
+<div class="etiquetas">
 {% for tag in rawtags %}
 {% if tag != "" %}
 
@@ -29,24 +30,32 @@ Here we generate all the tags.
 {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
 {% endunless %}
 {% endif %}
+
 {% endfor %}
 
 <br/>
 
 {% for tag in tags %}
+
+
 <a class="label label-success" href="#{{ tag | slugify }}" > {{ tag }} </a> &nbsp;
 {% endfor %}
 {% for tag in tags %}
 <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
-<ul>
+
+<div>
   {% for post in site.posts %}
   {% if post.tags contains tag %}
-  <li>
-      <a href="{{ post.url }}">
+  <div class="tag-titulopost">
+    <ul>
+    <li>
+      <a class="tag-linkpost" href="{{ post.url }}">
         {{ post.title }}
       </a>
-  </li>
+      </li>
+    </ul>
+</div>
   {% endif %}
   {% endfor %}
-</ul>
 {% endfor %}
+</div>
