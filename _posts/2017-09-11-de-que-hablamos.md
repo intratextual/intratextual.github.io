@@ -6,7 +6,7 @@ last_modified_at: 2019-11-21 12:12:00 +0000
 categories: [poesía, presentación]
 tags: [Raymond Carver, discurso, Casa del Poeta, Sergio García]
 permalink: /:title.html/
-author: alberto_leon
+author: leon
 excerpt: "Cuando Sergio García me pidió que escribiera un texto que explicara qué era para mí la poesía contemporánea, no puede evitar decirle “nadie sabe lo que es la poesía”. El día de hoy, en esta fiesta que se celebra a la poesía mantengo esa aseveración: NADIE SABE QUÉ ES LA POESÍA."
 related_image: /assets/images/transito.jpg
 ---

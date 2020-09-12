@@ -6,7 +6,7 @@ last_modified_at: 2019-11-21 12:26:00 +0000
 categories: [poesía, ideas, ensayo]
 tags: [Carl Sandburg, modernism, siglo XX]
 permalink: /:title.html/
-author: alberto_leon
+author: leon
 excerpt: "Para tener una aproximación a la poesía de Carl Sandburg haría falta cuestionar el escaso acercamiento que este autor ha tenido en México y en general a países de habla hispana."
 related_image: /assets/images/sandburg.png
 ---

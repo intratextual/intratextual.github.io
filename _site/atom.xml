@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semánticas</title>
+    <description>Letras y delirios posthumanos</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>Alberto R. León</name>
+      <email>hola@mrleon.space</email>
+      <uri>https://mrleon.space</uri>
+    </author>
+    
+      <item>
+        <title>Hola Mundo</title>
+        <description>&lt;p&gt;Hola mundo, ¿cómo estás?&lt;/p&gt;
+
+&lt;p&gt;A continuación verán mi foto:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bio_pic.jpg&quot; alt=&quot;Retrato&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//hola-mundo.html</link>
+        <link href="http://localhost:4000/hola-mundo.html"/>
+        <guid isPermaLink="true">http://localhost:4000/hola-mundo.html</guid>
+      </item>
+    
+      <item>
+        <title>¿Reescribir la historia?: apuntes sobre apocalipsis y decadentismo</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/historia.jpg&quot; alt=&quot;Juventud de Baco - W. A. Bouguereau&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Este artículo fue publicado en 2013 en telecapita.org,
+ahora el sitio ya no está activo, se realiza un rescate
+del texto ya que el autor considera puede aportar algo.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Habrá quienes crean el viejo cuento de Francis Fukuyama, quien vaticinó —con una mirada muy aguda pero no ajena o distante a otras inferencias catastrofistas de su época (y por lo tanto afín a la paranoia que en los 80 se vivía)— el fin de la historia. El apunte que realiza en este célebre ensayo es claro y puntual: el neoliberalismo y sistema capitalista es el tope máximo por el que históricamente ha luchado el hombre a lo largo y ancho de su historicidad, pero cabe mencionar que al mismo tiempo es un “argumento coladera”, es decir que tiene muchas fugas que lo cuestionan y lo atraviesan sin necesariamente derribarlo, no frontalmente, por lo menos, puesto que no existe interés alguno en demostrar que Fukuyama estaba mal, o no existe el interés de argumentarlo en un largo aliento. ¿A quién le interesa hoy en día hacer una historia totalitaria, llegar a decir La Verdad sobre tal o cuál suceso o acontecimiento y plantear la neta más neta de un fenómeno específico?&lt;/p&gt;
+
+&lt;p&gt;Fukuyama fue, tal vez, uno de los últimos historiadores comprometidos que llegaron a pensar la historia en términos de totalidad. Él no tiene la culpa, simplemente después de esta sentencia viral, pegajosa, exquisita, que se ha colado en nuestra fraseología de café (“el fin de la historia”, “el fin del arte”, “el fin de los relatos” y demás fines apocalípticos), a nadie le importó seguir diciendo realidades (pensemos en que la filosofía también pasó por este proceso después de la IIWM). Era evidente que un mundo de globalización y de información repleta de &lt;em&gt;spam&lt;/em&gt; y distracciones, traería consigo la caída de la visión positivista de la historia.&lt;/p&gt;
+
+&lt;p&gt;Cuando yo iba en la primaria, en los 90, podíamos definir sencillamente el término &lt;em&gt;Historia&lt;/em&gt;(con mayúsculas): “es la disciplina que se encarga del estudio del pasado para entender nuestro presente y visualizar el futuro”. Sin duda esta definición lograba encasillar el método cientificista que devino en la &lt;em&gt;decadencia&lt;/em&gt; que décadas atrás la ideología punk apuntó (“No hay futuro”) y que apenas poco más de una década después Fukuyama montó en el &lt;em&gt;stablishment&lt;/em&gt; cultural y social. La bonita definición que aborda planos diacrónicos y sincrónicos para proyectar una visión de lo venidero se desmembraba. Al clausurar la posibilidad de un &lt;em&gt;futuro&lt;/em&gt; (puesto que “no hay futuro” o “se acabó la historia”) se cuestionó profundamente la historicidad del hombre en sí. ¿Si nuestro presente no permite visualizar un futuro entonces no se ha entendido el pasado?&lt;/p&gt;
+
+&lt;p&gt;Dejemos de lado la última pregunta que puede o no contestar dentro de su ociosidad, pero enfoquémonos en un término que llama poderosamente mi atención: &lt;em&gt;decadencia&lt;/em&gt;. Podemos entender decadencia en un aspecto mocho y simplista como lo que define el &lt;a href=&quot;http://lema.rae.es/drae/srv/search?id=YSr5ipOBtDXX20VroXVw&quot;&gt;DRAE&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(de &lt;em&gt;decadente&lt;/em&gt;).&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;f. Declinación, menoscabo,
+principio de debilidad o de ruina.&lt;/li&gt;
+    &lt;li&gt;f. En historia o en arte período en el que esto sucede”&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Charles Baudelaire en sus estudios sobre Edgar Allan Poe escribe: “…el sol que golpeaba todo con su luz blanca y derecha pronto inundará el occidente de colores variados. Y en los arabescos de este sol agonizante, algunos espíritus poéticos encontrarán delicias nuevas”. La luz es la civilización, la realidad, lo pleno, lo incuestionable que se desfragmentará o mutará o entrará en decadencia y dará paso a la catástrofe, llamémosle arte, historia, sociedad; pero impulsará, al mismo tiempo, nuevas formas de relación y de visión que serán el punto de inicio de algo nuevo. Baudelaire, en el fragmento anterior, escribe sobre la &lt;em&gt;decadencia&lt;/em&gt;. Tomémosla entonces como un periodo de destrucción y de nacimiento. Si aventuramos un poco más este sentido baudeleriano sobre la decadencia, podemos rastrearlo hasta la antigua Grecia, pasando por el medievo, en la figura de Dionisos, dios del vino, la fiesta y también de la naturaleza y el sacrificio que implica muerte, pero también resurrección (Véase el libro de Walter Otto, &lt;em&gt;Dionisios&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Decadencia: muerte-resurreción, derrumbe-construcción, fin-inicio. La parte que Fukuyama ve, y con la que se queda, es con la versión del derrumbe, de la catástrofe, la visión del triunfo neoliberalista en la historia del hombre, un estadio total del que no hay una salida y que es por lo tanto incuestionable. Fukuyama, sin querer, o por lo menos no da a entender que lo hizo, cuestiona de raíz el fracaso del método positivista de la historia desde su nido.&lt;/p&gt;
+
+&lt;p&gt;Pero no olvidemos que toda construcción de sentido o expresión es forzosamente lingüística, bajo el entendido de que hay un emisor que formula un mensaje y un receptor que lo decodifica. La creación de una Historia (con mayúsculas), aspiraba a la seguridad de hechos capaces de hacer entender nuestro presente y poder inferir sobre el futuro. La base de este algoritmo era el pasado y el mecanismo que  movía esta idea era el &lt;em&gt;progreso&lt;/em&gt;, la sucesión de estados que se van mejorando cada vez más y que se supera periódicamente. Esta es la idea progresista, que alcanzó un tope evidente (el triunfo neoliberalista) en la tesis de Fukuyama.&lt;/p&gt;
+
+&lt;p&gt;El lunes 8 de abril del 2013, &lt;a href=&quot;http://es.wikipedia.org/wiki/Wikileaks&quot;&gt;Wikileaks&lt;/a&gt; libera una base de datos llamada &lt;a href=&quot;http://search.wikileaks.org/plusd/&quot;&gt;Cables Kissinger&lt;/a&gt;, que contienen cerca de 1 707 500 documentos privados que se emitieron entre 1973 y 1976 entre el secretario de estado del gobierno de EEUU, en el periodo señalado, y diversos actantes políticos y diplomáticos en el resto del mundo. Estos documentos son en extremo escandalosos, pues a raíz de ellos se ventiló información secreta de los distintos gobiernos que tuvieron relación con EEUU en este periodo, por ejemplo que el Rey Carlos de España era un soplón o que, en México, el expresidente López Portillo, además de soplón, era una persona poco preparada en los cargos ocupados, entre ellos el de hacienda, desempañados antes de su mandato. Así varios países han logrado entender diferentes aspectos de sus situaciones, a raíz de esta liberación masiva de datos.&lt;/p&gt;
+
+&lt;p&gt;Hay que entender o dejar claras dos cosas: en primer lugar no hay que tomar la liberación de esta cantidad ingente de documentos como un hecho coyuntural y noticia que caducará en unos cuantos días o semanas, sino como una herramienta de reconstrucción para fortalecer trabajos de investigación históricos y discursivos en general; herramientas que nos permitan entender las diferentes aristas que a raíz de estos escritos pudieran salir y el contraste evidente con la oficialidad. Segundo, un replanteamiento de la historia (con minúscula) en sí, que sea una herramienta de cuestionamiento que evidencia el discurso formado por aquellos que se han encargado de forjar en letras de bronce la Historia de su país, de su realidad o de su visión.&lt;/p&gt;
+
+&lt;p&gt;Este trabajo que Wikileaks libera es en sí mismo una forma de abordaje para reentender y resignificar el quehacer histórico. Si la fórmula era “la Historia es la disciplina que se encarga del estudio del pasado para entender nuestro presente y visualizar el futuro”, podemos jugar un poco con esta concepción y pasar a articularla como “bajo el presupuesto de que el futuro quedó atrás (otro lema punk) estudiar ese futuro sirve para proyectar nuestro presente y entender el pasado”. La historia como género discursivo, capaz de crear, a partir de la devastación proclamada por Fukuyama, un nuevo paraje de posibilidades que negocien ese estado totalitario, mas no por ello incuestionable, que corresponde a la contemporaneidad que habitamos.&lt;/p&gt;
+
+&lt;p&gt;Quizá haya que considerar a la decadencia como un principio apocalíptico de fin y comienzo, la luz baudeleriana que todo lo ilumina se desfragmenta y da paso a los matices, al caos, al derrumbe, pero al mismo tiempo al comienzo. Ser históricos no es estar bajo esa luz de una historia pétrea e inmutable, llena de hechos y verdades, sino es, desde un punto muy subjetivo, ser discurso y construirla junto a uno mismo, desde un punto no lineal sino relacional, que nos permita proclamar una deixis de sucesos que den un amplio abanico de posibilidades. Si el método esta jodido, hay que reinventarlo, ¿cómo lograr esto?, cada quién tendrá su manera, su forma y sobre todo su visión. Por último, no es prudente caer en posiciones ahistóricas o prohistóricas de una forma definitiva, insisto, es más interesante la relación que se puede estableces entre una y otra.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Aug 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//reescribir-la-historia.html/</link>
+        <link href="http://localhost:4000/reescribir-la-historia.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/reescribir-la-historia.html/</guid>
+      </item>
+    
+      <item>
+        <title>Carl Sandburg: ¿una poética inexplorada?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/sandburg.png&quot; alt=&quot;Tránsito&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Lay me on an anvil, O God.&lt;br /&gt;
+Beat me and hammer me into a crowbar&lt;br /&gt;
+Let me pry loose old walls.&lt;br /&gt;
+Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;—Carl Sandburg “Prayers of steel”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Para tener una aproximación a la poesía de Carl Sandburg haría falta cuestionar el escaso acercamiento que este autor ha tenido en México y en general a países de habla hispana. Esto se debe, principalmente, a que son nulos los trabajos que se han realizado en nuestro país para llevar al lector la obra de uno de los autores más representativos de la literatura estadunidense del siglo pasado. Con base en el trabajo de Sandburg, es necesario mencionar que se trata de un autor ecléctico, que no sólo tuvo expresión en la lírica, sino que además marcó una fecunda producción literaria en géneros como la novela, ensayo, historia, periodismo y la biografía, sin contar la música.&lt;/p&gt;
+
+&lt;p&gt;En la cultura popular estadunidense, Sandburg juega un papel preponderante, ya que su trabajo estuvo enfocado en la producción de artefactos literarios-narrativos sumamente comprometidos con causas sociales (fue parte del Partido Socialista de America),&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; mismos que se enraizaron en la construcción socio-cultural de mediados del siglo XX en Estados Unidos, por ello su obra es tan representativa. Ejemplos de lo anterior se pueden ver enmarcados en su trabajo biográfico con &lt;em&gt;Abraham Lincoln: The Prairie Years&lt;/em&gt; (1926), &lt;em&gt;Steichen the Photographer&lt;/em&gt; (1929) o en poesía con su célebre &lt;em&gt;Chicago Poems&lt;/em&gt; (1916). Estos trabajos le han valido diferentes galardones y reconocimientos, entre los que se destacan dos premios Pulitzer, uno por &lt;em&gt;The war years&lt;/em&gt; (1939), segunda biografía de Abraham Lincoln realizada por Sandburg, y el segundo por &lt;em&gt;Complete poems&lt;/em&gt; (1950).&lt;/p&gt;
+
+&lt;p&gt;La poesía de Sandburg es urbana y próxima al desarrollo social de su contexto histórico, pues describe procesos sociales que acontecen en la cotidianidad de sus lectores y se apega más a la crítica social, a diferencia de otras poéticas contemporáneas encabezadas por el &lt;em&gt;modernism&lt;/em&gt;.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Uno de los mayores contrastes puede apreciarse entre las poéticas de Ezra Pound y Sandburg, desde luego mi intención no es emitir un juicio sobre qué escritor es “mejor”, sino remarcar que la distinción de crítica que ambos dan es por medio de un lenguaje radicalmente distinto. La poética de Pound es poderosa en cuanto a imagen y el nivel de abstracción, propiedades que caracterizan sus intereses estéticos y lingüísticos enmarcados en una explosión discursiva muy particular;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Sandburg utiliza un lenguaje próximo y reconocible a la sociedad en la que escribe. Al igual que Pound, refleja claramente sus intenciones estéticas e ideológicas, que a su vez son reforzadas por las obras satelitales a su poesía.&lt;/p&gt;
+
+&lt;p&gt;Llama mi atención un periodo específico de la poesía de Sandburg, donde escribió los llamados &lt;em&gt;War Poems&lt;/em&gt;&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; publicados en &lt;em&gt;Chicago Poems&lt;/em&gt; (1916).&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; Cada título hace referencia explícita al desastre y terror que representó la Primera Guerra mundial ante los ojos de la sociedad norteamericana. Una guerra que fue una fractura total en el proyecto de Occidente para desembocar en la muerte, la masacre y el miedo. Estos poemas, además, serían incluidos en el libro más representativo de Sandburg, dejando en claro su postura y visión sobre los acontecimientos bélicos.&lt;/p&gt;
+
+&lt;p&gt;No cabe duda que Carl Sandburg es un escritor que ha pasado desapercibido para la academia y la crítica en Latinoamérica y España. Prueba de ello es el escaso trabajo que ha sido producido alrededor de su obra. Existen sólo dos publicaciones físicas en español que conozco de este autor, una es la &lt;em&gt;Antología de la poesía norteamericana&lt;/em&gt; (1959), editada por la UNAM y la segunda es la edición de la editorial independiente Letras Vivas que lleva por título &lt;em&gt;Antología de Carl Sandburg&lt;/em&gt; (2003). La traducción de ambas estuvo a cargo del poeta y académico Agustí Bartra.&lt;/p&gt;
+
+&lt;p&gt;Es insuficiente que ambas ediciones al español sean antologías, pues reflejan en extremo una visión sesgada y apenas introductoria de su extensa obra. En el caso de la edición de Letras Vivas se carece de un estudio introductorio sobre quién fue y qué hizo Carl Sandburg, aunque goza de otro material sumamente útil: un archivo fotográfico del autor.&lt;/p&gt;
+
+&lt;p&gt;Explorar la obra de Carl Sandburg es toparse con una visión muy particular del mundo emitida desde el momento exacto de la transición de Occidente de Europa a América. Es leer un mensaje de alerta y al mismo tiempo es ver una radiografía de la sociedad que es impulsada por el progreso y el avance técnico.&lt;/p&gt;
+
+&lt;p&gt;☙&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Socialist Party of America&lt;/em&gt; (SPA), un esfuerzo por conjuntar visiones plurales con orientación demócrata-socialista y que tuvo un gran impacto en las dos primeras décadas del siglo XX. Como dato que sirve para entender la obra de Sandburg, la SPA se opuso tajantemente a la interferencia de E.U. en la Primera Guerra Mundial, mismo hecho que daría como resultado una producción poética que se contraponía a ésta, los llamados &lt;em&gt;Poems Wars&lt;/em&gt; de los que hablaré más adelante. La SPA cambió de nombre a &lt;em&gt;Social Democrats, USA&lt;/em&gt; en los setentas. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Bajo el entendido del &lt;em&gt;modernism&lt;/em&gt; americano, específicamente literario, correlato, a grandes rasgos, de la vanguardia europea pues se desarrolla entre la década de los 20 y los 40. Ahora bien, me gustaría recordar que tanto la vertiente de Sandburg como la del &lt;em&gt;modernism&lt;/em&gt; están seriamente apoyadas en la poética de Walt Whittman, aspecto que percibe en la fuerte presencia de imágenes poéticas. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Ejemplo tal es el movimiento imaginista, caracterizado por el uso del lenguaje para proyectar poéticamente imágenes. Es sin duda uno de los movimientos literarios que catapultó Pound en el desarrollo de sus trabajos posteriores. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Poemas escritos entre 1914 y 1915 y publicados en sus primeros libros de poesía y que coinciden con la periodicidad de la Primera Guerra Mundial. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;“Killers”, “Among the Red Guns”, “Iron”, “Murmurings in a Field Hospital”, “Statistics”, “Fight”, “Buttons”, “And They Obey”, “Jaws”, “Salvage”, “Wars”. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//carl-sandburg-poetica.html/</link>
+        <link href="http://localhost:4000/carl-sandburg-poetica.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/carl-sandburg-poetica.html/</guid>
+      </item>
+    
+      <item>
+        <title>¿De qué hablamos cuando hablamos de poesía?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/transito.jpg&quot; alt=&quot;Tránsito&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Este texto fue pronunciado en abril de 2013 en la
+presentación del libro *Agazapados* de
+Sergio García Díaz en la Casa del Poeta Las Dos Fridas,
+Cd. Neza. Hasta ahora permaneció inédito.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Cuando Sergio García me pidió que escribiera un texto que explicara qué era para mí la poesía contemporánea, no puede evitar decirle “nadie sabe lo que es la poesía”. El día de hoy, en esta fiesta que se celebra a la poesía mantengo esa aseveración: NADIE SABE QUÉ ES LA POESÍA.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo el cuento de Raymond Carver, poeta y narrador estadounidense, “De qué hablamos cuando hablamos de amor”, título por demás escandaloso y estimulante que te invita a leerlo sin un “pero” de por medio. A grandes rasgos, la narración sucede en una tarde de copas entre dos parejas que debaten sobre cómo y cuáles son las maneras de amar. El cuento deja entrever una cosa, todo mundo entiende lo que quiere por amor, puede ser por medio de la violencia, de la razón, de la búsqueda y de la huida. Como conclusión, Carver deja en claro una cosa, nadie sabe lo que es el amor.&lt;/p&gt;
+
+&lt;p&gt;Sírvame de ejemplo la conclusión de Carver para decir lo mismo de la poesía. Podemos marcharnos a nuestra casa, o ir a tomar una cerveza a un bar y en el fondo cada quien tendrá una idea de lo que es la poesía, y más aún, la poesía contemporánea. Porque es necesario señalar que ese adjetivo complica aún más las cosas, apelar a una palabra como “contemporáneo” subjetiviza nuestro problemático concepto de “poesía” ¿Qué es y bajo qué condiciones podemos asegurar que algo es contemporáneo? Podemos sin suda compartir el mismo espacio y el mismo tiempo y escuchar la poesía más recalcitrante y clásica que jamás haya sido leída y, al mismo tiempo, podemos escuchar propuestas de poesía que integren otros elementos, ya sea spokenword, performance, música y tecnología, programación HTML, etc., y serán perfectamente, todas, contemporáneas. Decir poesía contemporánea es también decir nada.&lt;/p&gt;
+
+&lt;p&gt;Pero no se trata de ser sentenciosos o amargados, se trata de problematizar cosas que suelen darse por hecho, cosas que me parecen peligrosas decir, por ejemplo qué es algo y qué no es ese algo. Y ahí es donde podríamos encasillar un concepto, porque en el discriminar qué es poesía y qué no, se ha materializado el oficio del crítico y del poeta, es común escuchar “fulanito hace buena poesía”, “menganito escribe poemas mediocres”, “el maestro, gran poeta”, etc., marcas de superioridad o inferioridad rodean el llamado quehacer poético, quiero decir, escritor poeta, quiero decir, escritor poeta cuasi semidios. Pero regresamos una vez más a mi pregunta inicial ¿de qué hablamos cuando hablamos de poesía?&lt;/p&gt;
+
+&lt;p&gt;La poesía es tal vez una de las prácticas culturales más arraigadas en la humanidad, una tradición milenaria, una estructura que a lo largo de eras ha cumplido funciones específicas en momentos específicos. Si recordamos un poco, en la Grecia clásica, la poesía épica tenía una función no fantástica, tal como el día de hoy percibimos en las obras de Homero o las tragedias de Sófocles, sino que eran de carácter ritual y de enseñanza. La poesía épica hispánica, con los cantares de gesta medievales, como el de Mío Cid, eran entretenimiento y ejercicios de memoria de carácter narrativo. Durante los siglos de oro, la poesía era una herramienta política y teológica, una mala lectura de Góngora puede llevarnos a creer que el hombre escribió sus sonetos bajo el influjo romántico. No fue sino hasta el romanticismo en que la poesía pasó de tener una función politico-histórica a convertirse en puras visceras que se opondrían al proyecto de la Ilustración, y a partir de esta lectura visceral se ha releído toda la tradición de la poesía, sin contar la producción posterior. Qué va que después de la II Guerra Mundial, y tras el ocaso de las vanguardias artísticas, la poesía tan sólo heredo el uso del lenguaje como modo de extrañamiento y, en el sentido popular, la cursilería.&lt;/p&gt;
+
+&lt;p&gt;Quiero esclarecer que nosotros, como productores de ideas en torno a la poesía y la creación de la misma, hemos sólo replicado el sentido romántico de la subjetividad por medio de la palabra, además de aumentar las posibilidades de condicionamiento de la escritura, de ahí que la poesía sea tan diversa pero al mismo tiempo tan igual, pues a pesar de agregar algunos toques de filosofía y algunos cuantos de ciencia en el fondo esa poesía es en sí misma una poesía impulsada por el motor romántico (ya desideologizado) y presiocista que tiene realmente como &lt;em&gt;leitmotiv&lt;/em&gt; la transmisión de los sentimientos y pesares que nos acongojan o que deseamos mostrar.&lt;/p&gt;
+
+&lt;p&gt;Para mí, la poesía no está en escribir versos o en mostrar mi uso del lenguaje, sino en la forma relacional que tengo con las ideas y con el arte en general, con la música especialmente. La poesía, ya lo diría un ruso llamado Roman Jakobson, es una aplicación de la lengua, pero hay que agregar que esa aplicación de la lengua tiene una correlación estrecha con la visión del mundo y dialoga con otras aplicaciones de la lengua que no necesariamente son escritas u orales. Relación y creación estética a partir de nuestra propia óptica, ahí para mí está la poesía; su materialización en la estructura del poema o de un cuento o de una novela o de una pintura o de una película, es otra cosa.&lt;/p&gt;
+
+&lt;p&gt;¿De qué hablamos cuando hablamos de poesía contemporánea? Yo digo, al igual que Carver lo dice del amor, de nada.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//de-que-hablamos.html/</link>
+        <link href="http://localhost:4000/de-que-hablamos.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/de-que-hablamos.html/</guid>
+      </item>
+    
+      <item>
+        <title>En busca de la Arcadia perdida. Psicodelia y rock en el siglo XXI</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/psicodelia.jpg&quot; alt=&quot;Retrato&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Este artículo fue publicado en 2013 en telecapita.org,
+ahora el sitio ya no está activo, se realiza un rescate
+del texto ya que el autor considera puede aportar algo.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;algunos-antecedentes-de-la-psicodelia&quot;&gt;Algunos antecedentes de la psicodelia&lt;/h2&gt;
+
+&lt;p&gt;Hablar de psicodelia&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; es referirse a uno de los movimientos más extremos contra el desarrollo positivista impulsado por el método científico y las normas de la cultura oficial del tercer cuarto del siglo XX, especialmente de la cultura estadounidense y británica&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, grandes animadores del pensamiento racional-progresista que encontró su germen en aquella Francia del siglo XVII de Descartes.&lt;/p&gt;
+
+&lt;p&gt;Una campaña que fomenta el desprestigio social ha intentado minar el desarrollo de los movimientos contraculturales desde el romanticismo hasta los últimos intentos de resistencia en el arte conceptual y la música, entre los que encontramos a los movimientos psicodélico y hippie de los 60 y 70, quienes son hoy una parodia barata o cliché social.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, cabe resaltar que el movimiento psicodélico, que es el que me ocupa en este momento, ha tenido una suerte singular. La envergadura de la producción musical inició con exponentes como The Byrds, en su primer momento, y la fase brillante de The Beatles con «Revolver», grupos fundacionales que lograron crear una parcela sonora que podemos encontrar en las expresiones más minimalistas del ambient, el desarrollo ochentero del glam, el Idm y el postrock. Artistas de suma importancia (Syd Barret, Hendrix, John Lennon, Brian Eno, por mencionar algunos peces gordos) adoptaron el movimiento psicodélico por diversas razones entre las que destaco dos ejes: el espiritual y el tecnologíco, dos veredas que aparentemente no tendrían una gran relación, pero que sin lugar a dudas fueron determinantes para marcar definitivamente la música de la segunda mitad del siglo XX.&lt;/p&gt;
+
+&lt;p&gt;El primer eje, el espiritual, responde principalmente a la depresión social postbélica de la Segunda Guerra Mundial y al rechazo por la guerra de Vietnam; los movimientos artísticos anglosajones, en particular, se fundamentaron aparentemente en los excesos y el desinterés de una sociedad racional que había fracasado, sin embargo huelga repensar su postura ideológica ante el imperio neoliberal que se habría consolidado después de la Segunda Guerra Mundial. Entre los movimientos que brillan en la contracultura de los 50 y 60 tenemos a los beatniks&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; y el movimiento hippie, quienes fundamentan su poética en las de vanguardias europeas de finales del siglo XIX hasta bien entrados los años 40 del XX; por otro lado tenemos a John Coltrane y su música mística que influyó en The Byrds en el uso del drone. Estos fueron los principales antecesores del movimiento psicodélico.&lt;/p&gt;
+
+&lt;p&gt;Como parte de las premisas fundamentales vanguardistas y de la psicodelia se encuentra la adopción de nuevas formas de creencias, una búsqueda espiritual que parecía quedó clausurada en Occidente desde la Revolución Francesa y la sentencia nitzcheana&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; (dos hechos antagónicos que lograron, en cierta medida, coincidir en el fondo del pensamiento occidental, la sublimación del ego humano), donde el desarrollo científico fue la vara con que se medían las cosas. Desde la primera protovanguardia del siglo XIX, los decadentistas franceses, el germen del exceso y la creación fueron espada y escudo del pensamiento contracultural. Una horda de escritores y artistas visuales (la mayoría, sino todos, parias de los cánones estéticos) que se ampararon en el uso de drogas, la creación onírica y una inclinación a la ideología y prácticas orientales.&lt;/p&gt;
+
+&lt;p&gt;Si bien me he detenido en los decadentistas franceses es porque, a mi consideración, coinciden con el movimiento psicodélico y en cómo éste tuvo repercusión en el desarrollo artístico posterior, como más adelante veremos.&lt;/p&gt;
+
+&lt;p&gt;El segundo eje, el tecnológico, ha sido de vital importancia para la música, ya citaba anteriormente el &lt;em&gt;ambient&lt;/em&gt; que ha llegado hasta sus máximas expresiones con las producciones de Eno o Suicide, también encontramos la música creada por Richard David James (Aphex Twin) y diversas producciones provenientes de la experimentación con sintetizadores, iluminación y escenografía, que ha llegado a producir reacciones sinestésicas (gracias Syd Barret) y una gama muy amplia de géneros y tendencias que han estado presentes hasta nuestros días. Ritmos que no son del todo lejanos y que disfrutamos dionisiácamente las muchas de las veces.&lt;/p&gt;
+
+&lt;p&gt;La implementación de la tecnología ha favorecido en la exploración de terrenos para expandir la mente, crear escenarios y sonidos para producir supresión de los sentidos, para “dejarse llevar”, la iluminación, la creación de atmósferas en las cuales podemos acceder “al viaje”. Y por qué no, la tecnología aplicada a la creación de drogas que puedan facilitar el acceso a estados de mente,&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; aunque a veces sólo el contexto basta para psicoalterarte.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-pensamiento-psicodélico-y-la-música&quot;&gt;El pensamiento psicodélico y la música&lt;/h2&gt;
+
+&lt;p&gt;Como parte de las influencias en el pensamiento psicodélico, encontramos una gran referencialidad a las doctrinas espirituales de Oriente. Luis Racionero ha profundizado en este tema, el autor enumera tres fundamentos del pensamiento oriental que podemos encontrar en la psicodelia: 1) Experiencia unitaria, proveniente del hinduísmo; 2) cambio o metamorfosis, influencia del taoísmo; 3) cesación del tiempo, aportación del Zen.&lt;/p&gt;
+
+&lt;p&gt;Para el primer fundamento, en resumen, se trata de la abolición del ego, la fusión con el mundo y el contexto; el segundo fundamento está basado en la inestabilidad o supresión ontológica, la mutación (pensamiento afín al presocrático Heráclito); por último, la cesación de tiempo, en palabras de Recionero es “el tiempo sin memoria”, un tiempo que no termina o no transcurre o simplemente no pasa. Si podemos migrar esta tesis a estados del arte anteriores a los movimientos psicodélicos encontraremos que estos principios han sido utilizados en mayor o menor medida por las vanguardias artísticas europeas (incluyendo el decadentismo francés).&lt;/p&gt;
+
+&lt;p&gt;En la música encontramos que el rock psicodélico y los posteriores géneros derivados de éste (el trance, ambient, etc.) han seguido claramente estos tres fundamentos, aun después de la aparente desaparición del movimiento. En el fondo, la esencia psicodélica ha logrado una proyección que sorteó el tiempo, así como la influencia oriental que Racionero expone, la psicodelia logró permearse a través de sus fundamentos: se hizo una misma con su contexto musical (los géneros, grupos, etc.), lo que responde a una experiencia unitaria; el cambio o metamorfosis, la movilidad, volatilidad y mutabilidad que ha mostrado en el desarrollo de otros géneros/sonidos/experiencias; la cesación del tiempo en las sensaciones que por influencia de la música psicodélica perduran, el drone que ha logrado prevalecer en grupos de los años posteriores y que merodea en el ritmo onírico y la ensoñación (no necesariamente utópica), llegando a esa Arcadia del “paisaje sonoro”, sinestésico y cromático. Un paisaje compuesto por el saber oriental que ha expuesto Racionero y que es confirmado por la misma praxis psicodélica, un paisaje tiene cabida en un sólo lugar: la experiencia.&lt;/p&gt;
+
+&lt;p&gt;Simon Rynolds, al igual que racionero ha llegado a coincidir en estos principios psicodélicos: “La psicodelia siempre se ha propuesto ayudar al oyente a deslizarse fuera de los límites del tiempo, el espacio, el yo y refugiarse en un sin-tiempo y sin-espacio-zen”.&lt;/p&gt;
+
+&lt;p&gt;En conclusión para este apartado, los dos ejes que he propuesto (eje espiritual y tecnológico) devienen en la experiencia producida por los tres fundamentos propuestos por Luis Racionero (anteriormente enumerados) y su culminación en experiencias auditiva-sinestésicas con resultados como la supresión del tiempo y el espacio.&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;por-qué-no-otra-vez-una-ola-psicodélica&quot;&gt;¿Por qué no otra vez una ola psicodélica?&lt;/h2&gt;
+
+&lt;p&gt;Como un fantasma, o una esencia, rondaba aquel ente psicodélico. A través de casi cuarenta años, desde que Jefferson Airplane, The Byrds y demás dejaron a un lado el género para mutar o desaparecer, no se había realizado, quizá, un proyecto que replanteara explícitamente el rock psicodélico, o por lo menos uno que habría logrado llamar mi atención tanto como para hacer este extenso artículo.&lt;/p&gt;
+
+&lt;p&gt;¿Por qué me he propuesto crear esta verborrea que parece inconexa con las propuestas musicales contemporáneas? Encuentro dos casos particulares, a poco más de una década de haber comenzado el siglo XXI, y cuando tal vez se creía más que extinto el género psicodélico (&lt;em&gt;oldschool&lt;/em&gt; por llamarlo de alguna manera) surgen un par de propuestas que lograron desencajar o poner en cuestión este juicio; me refiero a Tame Impala y a The Black Angels, dos grupos en los que hay que poner especial énfasis por el desarrollo que han tenido.&lt;/p&gt;
+
+&lt;p&gt;Anteriormente mencionaba que la psicodelia ha pasado o ha mutado y se encontraba en gran parte de la producción musical post 70’s. El surgimiento de otros géneros, la experimentación y el sincretismo que se dio, parecía dar por clausurada esta época. Pero habría que ser un tanto más agudos. La psicodelia, después de haberse fusionado en muchas cosas y al mismo tiempo en nada, fue &lt;em&gt;in crescendo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Grupos de postpunk como The fall, hicieron alarde de sus habilidades psicodélicas, pero aún en baja frecuencia, lo mismo pasa con The Flamming Lips, T-Rex (¡oh, Marc Bolan!), My Bloody Valentine, Velvet Underground y cierta fase de Sonic Youth. Cada vez pareciera hacerse más fuerte la presencia del rock psicodélico conforme se acercaba el siglo XXI.&lt;/p&gt;
+
+&lt;p&gt;En el ocaso del siglo XX y albores del nuevo milenio, surgen propuestas musicales que tendrían bien marcadas una tendencia psicodélica. Hablo de agrupaciones como Kyuss, Mowai, MGMT, Arctic Monkeys y The Mars Volta (entre otros).&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, las agrupaciones como Tame Impala y The Black Angels pueden diferenciarse de las anteriores pues su música porta el estandarte que caracterizaba el rock psicodélico: la estridencia cromática, experiencia sinestésica, letras místicas (apegadas al rock cósmico que caracterizó parte de la psicodelia), la desaparición del todo, incluido el receptor de la música… tú. Con ello regresan no sólo a lo que pareciera la base de la psicodelia, sino que realizan un pastiche sonoro increíble con influencias del rock progresivo, el postrock, la música electrónica, etc.&lt;/p&gt;
+
+&lt;p&gt;Pero lo que verdaderamente podría diferenciar a The Black Angels y Tame Impala de los otros que tienen una tendencia psicodélica, por ejemplo MGMT, es el espíritu &lt;em&gt;trash&lt;/em&gt; que circunda en sus trabajos.&lt;/p&gt;
+
+&lt;p&gt;La canción “Manipulation” de The Black Angels es una explosión cromática que evoca un caleidoscopio, la mente nada entre un mar de sensaciones. Sin embargo, y a diferencia de lo que se denomina una “hippiada”, esta canción hace recordar a grupos como The United States of América, ya que a pesar de la iridiscencia que puede aparentar, “Manipulation” es realmente una canción oscura, que evoca el hipnotismo y por qué no, la perdición: “And you can feel her madness/ you see right through her smile/ don’t you turn your back and/ you’ll soon figure out, so run on/ She’ll straighten you/ and she’s got you, got you”&lt;/p&gt;
+
+&lt;p&gt;El caso de Tame Impala es muy similar, en su disco &lt;em&gt;Lonerism&lt;/em&gt; (2012) tenemos parte de la canción “Apocalypse Dreams”: “I, am too terrified to try our best/ Just to let the wind fade in, and you can’t it guess/ Life obsessed/ Let us dance you wake up mystified”. Estas letras evocan aquel “viaje” con aires distópicos que caracterizó al movimiento psicodélico de finales de los 60, es decir antes de su “desaparición”.&lt;/p&gt;
+
+&lt;p&gt;Pensar que el movimiento psicodélico puede renacer es tal vez un pensamiento ingenuo. Sí, se hace música de rock psicodélico; sí, se parecen las agrupaciones de aquella época dominada por el Pink Floyd de Barret, The Byrds y Jefferson Airplane; sí, podrían coincidir con los principios místicos que enuncia Racionero. Pero no es así, por lo menos no totalmente. Creo que en realidad, y con base en la tendencia estética que desprende cada una de estas dos propuestas, estamos ante el caso de dos propuestas &lt;em&gt;trash&lt;/em&gt;&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, ¿pero en qué sentido?&lt;/p&gt;
+
+&lt;p&gt;Sin meternos en mayores problemas, evoco en primera instancia (basado en la teoría TrashDeLuxe de Eloy Fernández Porta en &lt;em&gt;Homosampler&lt;/em&gt;) la formula del &lt;em&gt;trash&lt;/em&gt; desarrollada por Tomaso Labranca: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intención – resultado = Trash&lt;/code&gt; (Fernández Porta, p. 254). Con Tame Impala y The Black Angels tenemos dos expresiones que son en apariencia “psicodélicas” y suenan como tal, sin embargo ni generacional ni conceptualmente lo son.&lt;/p&gt;
+
+&lt;p&gt;Pero se trata de ir un poco más allá. Fernández Porta menciona que “para el artista &lt;em&gt;trash&lt;/em&gt; el pasado histórico no existe o es un referente nebuloso […] aborda los géneros y formas de la iconósfera contemporánea &lt;em&gt;como si fueran clásicos&lt;/em&gt;”, y esto se suma a la proyección subjetiva del artista, es decir su visión del mundo. En este sentido, y ya que estamos con el teórico afterpop por excelencia, tenemos que más allá de que existan grupos de rock psicodélico, estamos ante dos &lt;em&gt;britcollage&lt;/em&gt; de música y cultura psicodélica pero con una visión contemporánea.&lt;/p&gt;
+
+&lt;p&gt;A diferencia de MGMT, de clara orientación irónica hacia la ideología de los 60’s del siglo pasado (tanto así que dicen ser pop psicodélico, una postura bastante &lt;em&gt;kitsch&lt;/em&gt;), Tame Impala y The Black Angels son dos grupos con una excelente propuesta musical, perfectamente contemporánea, que pasa por &lt;em&gt;vintage&lt;/em&gt;. Ignoro si ellos lo saben y nos intentan engañar o de verdad creen en ello, pero a veces la crítica musical, que suele ser confundida con reseña musical, inclusive por los mismos “críticos”&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;, da por hecho esto sin desmenuzar el por qué.&lt;/p&gt;
+
+&lt;p&gt;El &lt;em&gt;trash&lt;/em&gt; de los grupos que menciono es en sí un collage por la mezcla de elementos que intervienen: en primer lugar la estética, la estridencia de los colores, de los escenarios y los ambientes perfectamente emulados con un ingrediente muy especial: el juego de subjetividades que deviene en una lógica de afectos (la melancolía de un pasado que nunca vivimos es uno de ellos). Es pues la reelaboración de un discurso que se daba por concluido, un discurso de resistencia con toques vanguardistas que emigró hacía una isla en la India.&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; La Arcadia se había perdido, quedó el mito que data su existencia y habría que llegar a él como fuera.&lt;/p&gt;
+
+&lt;p&gt;☙&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Si atendemos las siempre cuestionables definiciones del Diccionario de la Real Academia Española, encontramos que existe una gran paradoja entre el término psicodelia (sustantivo) y psicodélico (adjetivo), en gran medida la definición para “psicodelia” está orientada prejuiciosamente al definirla de la siguiente manera: “Tendencia surgida en la década de 1960, caracterizada por la excitación extrema de los sentidos, estimulados por drogas alucinógenas, música estridente, luces de colores cambiantes, etc.” [WTF], y para “psicodélico” se dice lo siguiente: “Perteneciente o relativo a la manifestación de elementos psíquicos que están ocultos, o a la estimulación intensa de potencias psíquicas”, mucho mejor, ¿no?, menos alejado de la realidad sin lugar a dudas. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Sin entrar en muchos detalles, este cambio del epicentro de occidente de Europa a Estados Unidos está fundamentado en el control del mercado y el poder económico. Tras la Segunda Guerra mundial, con Europa en ruinas, se produce este cambio. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Daniel Bell habla de “vanguardia fosilizada” que encarna en un nuevo orden (el capitalista de EE.UU.) los ideales de resistencia fundamentados en las vanguardias europeas pero en su versión Americana. En mi particular visión creo que no es aplicable al caso de la psicodelia, ya que ésta es por naturaleza ecléctica, fundamentada en el constante cambio, y bajo la cual mantengo que todas las manifestaciones vanguardistas, que no vanguardias europeas y derivados, están fundamentadas. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;La mentada “muerte de dios”, donde el hombre no puede creer más en órdenes divinos, coincidente este hecho con la sublimación de los métodos científicos, esto para Nietzche. Hegel, quien dijo antes esta frase, se habría referido al proceso de cosificación de las deidades en el panteón romano. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Sin embargo el uso de drogas psicodélicas son los derivados del ácido lisérgico (LSD), la mescalina (sustancia activa del peyote) y la psilocibina (sustancia activa de los hongos). &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Reynols hace referencia al “rave” como un momento clave para la experiencia psicodélica, haciendo una cita textual del concepto del teórico anarquista Hakim Bey: “Zona Temporalmente Autónima” (TAZ con sus siglas en inglés). &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Trash&lt;/em&gt; como fenómeno cultural, no como género proveniente del heavy o la acostumbrada mal interpretación de “porquería”. Eloy Fernández Porta lo explica a la perfección en su libro &lt;em&gt;Homosampler: tiempo y consumo en la Era Afterpop&lt;/em&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Rescato la idea de Pablo Schanton acerca de que la crítica musical debe ser en el fondo un convencimiento ideológico y un campo de batalla dialógica dónde problematizar el acontecer de la música y sobre todo de las ideas acerca de ésta. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Me refiero a la playa de Goa, donde el DJ-hippie, Goa Gill, realiza fiestas masivas psicodélicas. Esta playa un refugio a donde llegaron los hippies en la década de los 70’s. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//arcadia-perdida.html/</link>
+        <link href="http://localhost:4000/arcadia-perdida.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/arcadia-perdida.html/</guid>
+      </item>
+    
+  </channel>
+</rss>

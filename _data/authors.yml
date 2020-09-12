@@ -1,8 +1,5 @@
-# detalle de autores
-alberto_leon:
-    name: León
+# Author details.
+leon:
+    name: Alberto R. León
     email: hola@mrleon.space
-    web: https://mrleon.space
-    twitter: intratextual
-    bio: Pirata editorial // Naúfrago.
-    image: /assets/images/bio_pic.jpg
+    web: http://twitter.com/intratextual

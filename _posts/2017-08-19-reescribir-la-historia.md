@@ -6,7 +6,7 @@ last_modified_at: 2019-11-21 11:35:00 +0000
 categories: [ideas, opinión, mundo]
 tags: [decadentismo, Fukuyama, historia, neoliberalismo, Wikileaks]
 permalink: /:title.html/
-author: alberto_leon
+author: leon
 excerpt: "Habrá quienes crean el viejo cuento de Francis Fukuyama, quien vaticinó —con una mirada muy aguda pero no ajena o distante a otras inferencias catastrofistas de su época (y por lo tanto afín a la paranoia que en los 80 se vivía)— el fin de la historia."
 related_image: /assets/images/historia.jpg
 ---

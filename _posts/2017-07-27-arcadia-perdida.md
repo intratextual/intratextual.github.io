@@ -6,7 +6,7 @@ last_modified_at: 2019-11-21 10:57:00 +0000
 categories: [música, opinión, ensayo]
 tags: [psicodelia, música, Rancionero, Reynols, rock, siglo XXI, siglo XX, vanguardias, droga]
 permalink: /:title.html/
-author: alberto_leon
+author: leon
 excerpt: "Hablar de psicodelia es referirse a uno de los movimientos más extremos contra el desarrollo positivista impulsado por el método científico y las normas de la cultura oficial del tercer cuarto del siglo XX, especialmente de la cultura estadounidense y británica, grandes animadores del pensamiento racional-progresista que encontró su germen en aquella Francia del siglo XVII de Descartes."
 related_image: /assets/images/psicodelia.jpg
 ---
