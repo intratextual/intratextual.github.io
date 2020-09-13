@@ -4,6 +4,7 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
+  <small>{% include reading-time.html %}</small><br/>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   <br/>
   {% assign author = site.data.authors[page.author] %}
