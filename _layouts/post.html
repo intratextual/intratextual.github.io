@@ -28,11 +28,16 @@ layout: default
 
   {{ content }}
 
+<br />
+
+{% include share-buttons.html %}
 <br/>
 <small>
+  etiquetas:
     {% for tag in page.tags %}
     <a href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
 </small>
+<br/>
 
 </article>
