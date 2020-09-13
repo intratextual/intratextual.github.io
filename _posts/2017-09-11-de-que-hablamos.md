@@ -13,13 +13,6 @@ related_image: /assets/images/transito.jpg
 
 ![Tránsito](/assets/images/transito.jpg)
 
-```
-Este texto fue pronunciado en abril de 2013 en la
-presentación del libro *Agazapados* de
-Sergio García Díaz en la Casa del Poeta Las Dos Fridas,
-Cd. Neza. Hasta ahora permaneció inédito.
-```
-
 Cuando Sergio García me pidió que escribiera un texto que explicara qué era para mí la poesía contemporánea, no puede evitar decirle “nadie sabe lo que es la poesía”. El día de hoy, en esta fiesta que se celebra a la poesía mantengo esa aseveración: NADIE SABE QUÉ ES LA POESÍA.
 
 Recuerdo el cuento de Raymond Carver, poeta y narrador estadounidense, “De qué hablamos cuando hablamos de amor”, título por demás escandaloso y estimulante que te invita a leerlo sin un “pero” de por medio. A grandes rasgos, la narración sucede en una tarde de copas entre dos parejas que debaten sobre cómo y cuáles son las maneras de amar. El cuento deja entrever una cosa, todo mundo entiende lo que quiere por amor, puede ser por medio de la violencia, de la razón, de la búsqueda y de la huida. Como conclusión, Carver deja en claro una cosa, nadie sabe lo que es el amor.

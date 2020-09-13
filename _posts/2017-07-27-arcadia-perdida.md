@@ -13,12 +13,6 @@ related_image: /assets/images/psicodelia.jpg
 
 ![Retrato](/assets/images/psicodelia.jpg)
 
-```
-Este artículo fue publicado en 2013 en telecapita.org,
-ahora el sitio ya no está activo, se realiza un rescate
-del texto ya que el autor considera puede aportar algo.
-```
-
 ## Algunos antecedentes de la psicodelia
 
 Hablar de psicodelia[^1] es referirse a uno de los movimientos más extremos contra el desarrollo positivista impulsado por el método científico y las normas de la cultura oficial del tercer cuarto del siglo XX, especialmente de la cultura estadounidense y británica[^2], grandes animadores del pensamiento racional-progresista que encontró su germen en aquella Francia del siglo XVII de Descartes.
