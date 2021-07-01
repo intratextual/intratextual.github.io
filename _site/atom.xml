@@ -3,13 +3,23 @@
   <channel>
     <title>Semánticas</title>
     <description>Letras y delirios posthumanos</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>Alberto R. León</name>
       <email>hola@mrleon.space</email>
       <uri>https://mrleon.space</uri>
     </author>
+    
+      <item>
+        <title>Prueba del futuro</title>
+        <description>&lt;h1 id=&quot;hey&quot;&gt;Hey!&lt;/h1&gt;
+</description>
+        <pubDate>Thu, 01 Jul 2021 00:00:00 -0500</pubDate>
+        <link>//prueba-del-futuro.html/</link>
+        <link href="/prueba-del-futuro.html/"/>
+        <guid isPermaLink="true">/prueba-del-futuro.html/</guid>
+      </item>
     
       <item>
         <title>Doolittle: la inconformidad y el ímpetu</title>
@@ -50,9 +60,9 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 08 Jul 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//doolittle.html/</link>
-        <link href="http://localhost:4000/doolittle.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/doolittle.html/</guid>
+        <link>//doolittle.html/</link>
+        <link href="/doolittle.html/"/>
+        <guid isPermaLink="true">/doolittle.html/</guid>
       </item>
     
       <item>
@@ -88,9 +98,9 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 13 Jun 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//without.html/</link>
-        <link href="http://localhost:4000/without.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/without.html/</guid>
+        <link>//without.html/</link>
+        <link href="/without.html/"/>
+        <guid isPermaLink="true">/without.html/</guid>
       </item>
     
       <item>
@@ -129,9 +139,9 @@ principio de debilidad o de ruina.&lt;/li&gt;
 &lt;p&gt;Quizá haya que considerar a la decadencia como un principio apocalíptico de fin y comienzo, la luz baudeleriana que todo lo ilumina se desfragmenta y da paso a los matices, al caos, al derrumbe, pero al mismo tiempo al comienzo. Ser históricos no es estar bajo esa luz de una historia pétrea e inmutable, llena de hechos y verdades, sino es, desde un punto muy subjetivo, ser discurso y construirla junto a uno mismo, desde un punto no lineal sino relacional, que nos permita proclamar una deixis de sucesos que den un amplio abanico de posibilidades. Si el método esta jodido, hay que reinventarlo, ¿cómo lograr esto?, cada quién tendrá su manera, su forma y sobre todo su visión. Por último, no es prudente caer en posiciones ahistóricas o prohistóricas de una forma definitiva, insisto, es más interesante la relación que se puede estableces entre una y otra.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Aug 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//reescribir-la-historia.html/</link>
-        <link href="http://localhost:4000/reescribir-la-historia.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/reescribir-la-historia.html/</guid>
+        <link>//reescribir-la-historia.html/</link>
+        <link href="/reescribir-la-historia.html/"/>
+        <guid isPermaLink="true">/reescribir-la-historia.html/</guid>
       </item>
     
       <item>
@@ -184,9 +194,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//carl-sandburg-poetica.html/</link>
-        <link href="http://localhost:4000/carl-sandburg-poetica.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/carl-sandburg-poetica.html/</guid>
+        <link>//carl-sandburg-poetica.html/</link>
+        <link href="/carl-sandburg-poetica.html/"/>
+        <guid isPermaLink="true">/carl-sandburg-poetica.html/</guid>
       </item>
     
       <item>
@@ -210,9 +220,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;¿De qué hablamos cuando hablamos de poesía contemporánea? Yo digo, al igual que Carver lo dice del amor, de nada.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//de-que-hablamos.html/</link>
-        <link href="http://localhost:4000/de-que-hablamos.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/de-que-hablamos.html/</guid>
+        <link>//de-que-hablamos.html/</link>
+        <link href="/de-que-hablamos.html/"/>
+        <guid isPermaLink="true">/de-que-hablamos.html/</guid>
       </item>
     
       <item>
@@ -314,9 +324,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//arcadia-perdida.html/</link>
-        <link href="http://localhost:4000/arcadia-perdida.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/arcadia-perdida.html/</guid>
+        <link>//arcadia-perdida.html/</link>
+        <link href="/arcadia-perdida.html/"/>
+        <guid isPermaLink="true">/arcadia-perdida.html/</guid>
       </item>
     
       <item>
@@ -342,9 +352,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;P.S.: Lo realmente lamentable es que la canción más escuchada de Spotify no sea &lt;em&gt;Work&lt;/em&gt;, de Rihanna y, vaya, Drake.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Dec 2016 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000//berrinches-melomanos.html/</link>
-        <link href="http://localhost:4000/berrinches-melomanos.html/"/>
-        <guid isPermaLink="true">http://localhost:4000/berrinches-melomanos.html/</guid>
+        <link>//berrinches-melomanos.html/</link>
+        <link href="/berrinches-melomanos.html/"/>
+        <guid isPermaLink="true">/berrinches-melomanos.html/</guid>
       </item>
     
   </channel>

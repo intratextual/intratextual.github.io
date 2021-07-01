@@ -3,7 +3,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/404</loc>
+        <loc>/404</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -11,7 +11,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/acercade</loc>
+        <loc>/acercade</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -19,33 +19,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/archivo</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/categorias/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/css/main.css</loc>
+        <loc>/archivo</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -55,7 +29,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/tags/</loc>
+        <loc>/categorias/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -63,7 +37,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/page/2/</loc>
+        <loc>/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -71,7 +45,17 @@
   
   
       <url>
-        <loc>http://localhost:4000/page/3/</loc>
+        <loc>/css/main.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>/tags/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -79,7 +63,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/css/main.css.map</loc>
+        <loc>/page/2/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -87,43 +71,65 @@
   
   
       <url>
-        <loc>http://localhost:4000/doolittle.html/</loc>
+        <loc>/page/3/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/css/main.css.map</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/prueba-del-futuro.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/without.html/</loc>
+        <loc>/doolittle.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/reescribir-la-historia.html/</loc>
+        <loc>/without.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/carl-sandburg-poetica.html/</loc>
+        <loc>/reescribir-la-historia.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/de-que-hablamos.html/</loc>
+        <loc>/carl-sandburg-poetica.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/arcadia-perdida.html/</loc>
+        <loc>/de-que-hablamos.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/berrinches-melomanos.html/</loc>
+        <loc>/arcadia-perdida.html/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/berrinches-melomanos.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

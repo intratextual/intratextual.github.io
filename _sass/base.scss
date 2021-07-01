@@ -235,7 +235,7 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: /*#63c0f5 original*/#ef1cd2;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
@@ -275,4 +275,8 @@ a:active, a:focus {
 div.elemento {
   width: 50%;
  margin: 0 auto;
+}
+
+div.centrar{
+  margin: 0 auto;
 }
