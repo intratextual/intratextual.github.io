@@ -71,26 +71,12 @@
   
   
       <url>
-        <loc>/page/3/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>/css/main.css.map</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
   
-  
-      <url>
-        <loc>/prueba-del-futuro.html/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
   
       <url>
         <loc>/doolittle.html/</loc>
