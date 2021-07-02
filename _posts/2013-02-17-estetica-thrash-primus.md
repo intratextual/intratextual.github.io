@@ -3,7 +3,7 @@ layout: post
 title: "La estética trash de Primus"
 date: 2013-02-17
 categories: [música, ensayo, pensamientos]
-tags: [música, Primus, humor, Gilles Lipovetsky, ]
+tags: [música, Primus, humor, Gilles Lipovetsky, trash]
 permalink: /:title.html/
 author: leon
 ---
