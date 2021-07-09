@@ -12,21 +12,6 @@
     </author>
     
       <item>
-        <title>Contact</title>
-        <description>&lt;form accept-charset=&quot;UTF-8&quot; action=&quot;https://getform.io/{your-form-endpoint}&quot; method=&quot;POST&quot; enctype=&quot;multipart/form-data&quot; target=&quot;_blank&quot;&gt;
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Your Email&quot; /&gt;
-    &lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Your Name&quot; /&gt;
-    &lt;input type=&quot;text&quot; name=&quot;message&quot; placeholder=&quot;Your Message&quot; /&gt;
-    &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;
-</description>
-        <pubDate>Wed, 07 Jul 2021 00:00:00 -0500</pubDate>
-        <link>//contact/</link>
-        <link href="/contact/"/>
-        <guid isPermaLink="true">/contact/</guid>
-      </item>
-    
-      <item>
         <title>Doolittle: la inconformidad y el ímpetu</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://rolandoradio.files.wordpress.com/2019/04/pixies-doolittle-h.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
