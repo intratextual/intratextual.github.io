@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Doolittle: la inconformidad y el ímpetu"
-description: "Es la adolescencia es un momento extraño, incómodo, fastidioso donde un grupo es capaz de cambiar nuestra vida y direccionar nuestro rumbo, así lo hizo *Doolittle* con la mía."
+description: "La adolescencia es un momento extraño, incómodo, fastidioso donde un grupo de música estruendosa es capaz de cambiar nuestra vida y [re]direccionar nuestro rumbo, al menos así lo hizo *Doolittle* conmigo."
 date:   2020-07-08
 categories: [música, ideas, opinión]
 tags: Música Pixies Estruendo Cumpleaños

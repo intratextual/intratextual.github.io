@@ -35,15 +35,12 @@ layout: default
 
 <br/>
 
-<small>
+Etiquetas:
 
-  etiquetas:
-  [
-    {% for tag in page.tags %}
-    {% assign tag_slug = tag | slugify: "raw" %}
-    <a href="{{ site.url}}/tags/{{ tag }}/">#{{ tag }}</a>
-    {% endfor %}
-  ]
+{% for tag in page.tags %}
+  {% assign tag_slug = tag | slugify: "raw" %}
+  | <a href="{{ site.url}}/tags/{{ tag }}/"> #{{ tag }}</a> 
+{% endfor %}
 
 <br/>
 

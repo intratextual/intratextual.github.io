@@ -11,14 +11,6 @@
   
   
       <url>
-        <loc>/tags/M%C3%BAsica</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>/acercade</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
