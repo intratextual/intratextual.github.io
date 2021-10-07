@@ -31,3 +31,8 @@ plugins:
 owner : "Alberto R. León | @intratextual"
 year : "2021"
 google_analytics: "UA-201129882-1"
+
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/

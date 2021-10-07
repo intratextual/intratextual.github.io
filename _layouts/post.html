@@ -32,13 +32,26 @@ layout: default
 <br />
 
 {% include share-buttons.html %}
-<br/>
+
+<!-- <br/>
+
 <small>
+
   etiquetas:
+  [
     {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% assign tag_slug = tag | slugify: "raw" %}
+    <a href="{{ site.url}}/tags/{{ tag }}/">#{{ tag }}</a>
     {% endfor %}
-</small>
+  ]
+</small> -->
 <br/>
+
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tags/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
 
 </article>

@@ -4,7 +4,7 @@ title:  "Carl Sandburg: ¿una poética inexplorada?"
 date:   2017-08-01
 last_modified_at: 2019-11-21 12:26:00 +0000
 categories: [poesía, ideas, ensayo]
-tags: [Carl Sandburg, modernism, siglo XX]
+tags: Carl-Sandburg Modernism Siglo-XX
 permalink: /:title.html/
 author: leon
 excerpt: "Para tener una aproximación a la poesía de Carl Sandburg haría falta cuestionar el escaso acercamiento que este autor ha tenido en México y en general a países de habla hispana."

@@ -3,7 +3,7 @@ layout: post
 title: "De las vestiduras desgarradas a la risa: o de por qué vale un carajo la premiación de Bryce"
 date: 2012-10-20
 categories: [literatura, crítica, pensamientos]
-tags: [Bryce Echenique, Perú, plagio, FIL Guadalajara]
+tags: Bryce-Echenique Perú Plagio FIL Guadalajara
 permalink: /:title.html/
 author: leon
 ---

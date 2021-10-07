@@ -4,7 +4,7 @@ title: "Doolittle: la inconformidad y el ímpetu"
 description: "Es la adolescencia es un momento extraño, incómodo, fastidioso donde un grupo es capaz de cambiar nuestra vida y direccionar nuestro rumbo, así lo hizo *Doolittle* con la mía."
 date:   2020-07-08
 categories: [música, ideas, opinión]
-tags: [música, Pixies, estruendo, cumpleaños]
+tags: Música Pixies Estruendo Cumpleaños
 permalink: /:title.html/
 author: leon
 ---

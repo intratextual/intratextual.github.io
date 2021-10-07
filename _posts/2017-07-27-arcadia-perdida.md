@@ -4,7 +4,7 @@ title:  "En busca de la Arcadia perdida. Psicodelia y rock en el siglo XXI"
 date:   2017-07-27
 last_modified_at: 2019-11-21 10:57:00 +0000
 categories: [música, opinión, ensayo]
-tags: [psicodelia, música, Rancionero, Reynols, rock, siglo XXI, siglo XX, vanguardias, droga]
+tags: Psicodelia Música Rancionero Reynols Rock Siglo-XXI Siglo-XX Vanguardias Droga
 permalink: /:title.html/
 author: leon
 comment_issue_id: 5

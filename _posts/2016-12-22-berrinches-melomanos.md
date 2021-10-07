@@ -3,7 +3,7 @@ layout: post
 title: "Berrinches melómanos"
 date:   2016-12-22
 categories: [música, réplica, crítica]
-tags: [música, Drake, pop, Top-Charts, Spotify, The Beatles]
+tags: Música Drake Pop Top-Charts Spotify The-Beatles
 permalink: /:title.html/
 author: leon
 ---
