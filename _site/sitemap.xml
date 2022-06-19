@@ -3,7 +3,7 @@
   
   
       <url>
-        <loc>/404</loc>
+        <loc>http://localhost:4000/404</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -11,7 +11,7 @@
   
   
       <url>
-        <loc>/acercade</loc>
+        <loc>http://localhost:4000/acercade</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -19,33 +19,7 @@
   
   
       <url>
-        <loc>/archivo</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>/categorias/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>/css/main.css</loc>
+        <loc>http://localhost:4000/archivo</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -55,7 +29,7 @@
   
   
       <url>
-        <loc>/page/2/</loc>
+        <loc>http://localhost:4000/categorias/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -63,7 +37,7 @@
   
   
       <url>
-        <loc>/css/main.css.map</loc>
+        <loc>http://localhost:4000/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -71,55 +45,87 @@
   
   
       <url>
-        <loc>/doolittle.html/</loc>
+        <loc>http://localhost:4000/css/main.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/page/2/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/css/main.css.map</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/pensamientos-desde-el-miedo-y-el-odio.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/without.html/</loc>
+        <loc>http://localhost:4000/doolittle.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/reescribir-la-historia.html/</loc>
+        <loc>http://localhost:4000/without.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/carl-sandburg-poetica.html/</loc>
+        <loc>http://localhost:4000/reescribir-la-historia.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/de-que-hablamos.html/</loc>
+        <loc>http://localhost:4000/carl-sandburg-poetica.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/arcadia-perdida.html/</loc>
+        <loc>http://localhost:4000/de-que-hablamos.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/berrinches-melomanos.html/</loc>
+        <loc>http://localhost:4000/arcadia-perdida.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/estetica-thrash-primus.html/</loc>
+        <loc>http://localhost:4000/berrinches-melomanos.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/de-las-vestiduras.html/</loc>
+        <loc>http://localhost:4000/estetica-thrash-primus.html/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/de-las-vestiduras.html/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

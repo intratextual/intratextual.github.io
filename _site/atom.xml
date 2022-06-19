@@ -3,13 +3,47 @@
   <channel>
     <title>Semánticas</title>
     <description>Letras y delirios posthumanos</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>mrleon</name>
       <email>hola@mrleon.space</email>
       <uri>https://mrleon.space</uri>
     </author>
+    
+      <item>
+        <title>Pensamientos desde el miedo y el odio</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/D%C3%A9mon_d%27assassinat.png&quot; alt=&quot;Démon d'assassinat (1863)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No sé expresar mi odio. No es algo que jamás haya hecho, si no que es algo que he olvidado hacer. Con esto no quiero decir que no odie; todo lo contrario, siento que mi odio hacia las cosas y hacia mí ha crecido de una manera exponencial en los últimos años. Lo que sucede es que he olvidado cómo canalizar este odio. Peor aún, me siento culpable por odiar, como si un fuete imaginario arremetiera contra mí cuando de mis entrañas comenzara siquiera a materializarse el profundo desprecio y repugnancia que generalmente siento.&lt;/p&gt;
+
+&lt;p&gt;¡Vaya cosa!, todo se ha convertido en una desagradable confusión. Y es que mientras el paso de los años sigue haciéndome parecer un extraño frente al espejo, me siento tan extranjero de mí que a duras penas puedo reconocerme en el reflejo cuando con pereza me lavo los dientes. No soy de aquellas personas que romantiza el pasado, porque es simple y llanamente una falacia, pero ¡ah, como extraño el pasado! Desde mi experiencia de adulto disfuncional, puedo decir con toda mi conciencia que he perdido el rumbo.&lt;/p&gt;
+
+&lt;p&gt;Me causa miedo salir a la calle y relacionarme con las personas, puede ser esa paranoia postCOVID o no, lo cierto es que cada que interactúo con alguien tengo la impresión de que no puedo ofrecer nada, y eso es algo que no soporto  porque yo antes tenía algo que darle a las personas, de menos algunos malos momentos. “La magia se ha ido”, es un duro juicio que suelo hacerme todos los días, al ver mis novelas inconclusas, mis poemas arrumbados, mis proyectos truncos y la cuenta del banco casi en ceros. Y entonces el odio emerge y siento como trepa por mi estómago para después pasar al esófago, y después, cuando está a punto de salir como vómito, se va, desaparece y se mimetiza con mi apatía y con mi depresión que cada vez se agudiza más.&lt;/p&gt;
+
+&lt;p&gt;Es un mal momento en mi vida, y no es que no tenga cosas buenas o me rodeen personas y seres geniales, lo que ocurre es que me siento tan marchito que arrastro a cualquiera conmigo e infecto sus cuerpos con mi inmundicia. Y entonces pasa de nuevo, el miedo me posee y vuelvo a simplemente no hacer nada.&lt;/p&gt;
+
+&lt;p&gt;Últimamente he escudriñado el pasado, veo fotos viejas, momentos que hoy son nebulosos, rostros que han pasado, amigos que ya murieron y otros que han envejecido mal, incluyéndome. Entonces la infranqueable melancolía sale a flote, como un pedazo de mierda que flota en el retrete. Es irremediable pensar que el pasado era mejor. Entonces también estaba enojado, pero mis vías de escape eran muchas y no solía reprimir nada, ningún pensamiento ni tampoco ningún sentimiento. Era en cierta manera más simple, más sencillo, pues creía, y sabía, que no había mucho qué perder. Qué más daba cometer un error. Y esto último no estoy seguro si era una ingenuidad o algo sabio.&lt;/p&gt;
+
+&lt;p&gt;Por lo general suelo ser muy duro al juzgarme en el pasado, me sorprendo llamándome a mí mismo irresponsable o alguien que no medía las situaciones, sin temor a las consecuencias. Entonces me percato de que tal vez no me juzgo desde la conciencia, desde una madurez, quizá me juzgo desde la envidia, por lo que hoy ya no soy, por lo que hoy ya no me atrevo a hacer, porque ya no me siento con libertad.&lt;/p&gt;
+
+&lt;p&gt;El miedo se apodera a diario de mí, vivo temeroso. Pero miedo de qué. Miedo tal vez a vivir. A no ser lo que se supone que debo ser, a no portarme como se supone me debo portar, a no cumplir las expectativas que debo cumplir. Pero, ¿qué debo ser, cómo me debo portar, qué expectativas debo cumplir? Definitivamente no lo sé. Es algo ridículo, pero así son las cosas. Y el enojo quiere explotar, salir y consumir todo, pero el miedo lo domina y lo interioriza en mí.&lt;/p&gt;
+
+&lt;p&gt;¿Qué diferencia hay entonces? ¿He crecido como persona? ¿Qué hago y quién soy? Terminé mi licenciatura y me ensamblé en un mundo laboral, pago mis impuestos y laburo en un horario de oficina, vivo con alguien a quien quiero y tengo perros que me aman, y aún así el vértigo se apodera de mi vida al darme cuenta en dónde estoy, a donde he llegado. Debería sentirme bien por lo que tengo ¿Pero por qué debería sentirme así? ¿Quién o qué me dicta los parámetros para sentirme bien? Y aparece otra vez el enojo porque no permito sentirme bien a pesar de lo que “tengo”.&lt;/p&gt;
+
+&lt;p&gt;Y ese es, creo yo, el &lt;em&gt;quid&lt;/em&gt; de toda esta situación, lo que &lt;em&gt;debería ser&lt;/em&gt; frente a lo que &lt;em&gt;no debería ser&lt;/em&gt;. Por qué debo ensamblarme en un mundo laboral, por qué debo pagar y no quedar a deber, por qué debo corresponder como me han dicho que debo corresponder. En qué momento he caído en una alberca de mierda como esta. La única pista que tengo es que vivo bajo las condiciones de &lt;em&gt;algo&lt;/em&gt; más, no bajo las mías. Vivo en un supuesto y no en una realidad. Aún no sé en qué momento pasó todo esto y cuándo perdí el &lt;em&gt;control&lt;/em&gt; y todo se convirtió en miedo.&lt;/p&gt;
+
+&lt;p&gt;Por qué demonios no debería encabronarme por algo que no me guste, por qué debo plantar una buena cara cuando no quiero hacerlo, por qué debo tolerar todo en todo momento, ser correcto y creer que respetar cualquier forma de pensar es válida. Por qué debo cuidar mi forma de ser para que las demás personas se sientan mejor, mi forma de hablar, de escribir, de relacionarme. Estoy harto de toda esa mierda, de ser como debería ser aún sin saber cómo es eso. Puedo asegurar que al día de hoy eso me ha traído más problemas y desdichas que ventajas.&lt;/p&gt;
+
+&lt;p&gt;Pero el miedo sale y me detiene para evitar que me convierta en un verdadero hijo de puta, ese maldito miedo que me ha domesticado es lo que busco exorcizar. No quiero decir con esto que quiero ser como hace diez o quince años aunque eso parezca, quiero decir que si hace diez o quince años sin ese absurdo miedo podía hacer más cosas por mí, hoy esas cosas que haría por mí me harían ser más libre de todo el circuito sin sentido del miedo, de la censura y la impotencia, del deber ser, de lo que se espera.&lt;/p&gt;
+
+&lt;p&gt;Lo tengo claro, debo ir en contra de la domesticación de mi psique, derribar los supuestos para poder gritar mi odio, para poder escribir, para poder leer, para poder publicar y hacer arte una vez más, para enfermarme una vez más de la literatura. Sé que lo debo hacer, pero no sé cómo. Espero que este grito desesperado sea un comienzo… el incipiente comienzo de mi libertad.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Jun 2022 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//pensamientos-desde-el-miedo-y-el-odio.html/</link>
+        <link href="http://localhost:4000/pensamientos-desde-el-miedo-y-el-odio.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/pensamientos-desde-el-miedo-y-el-odio.html/</guid>
+      </item>
     
       <item>
         <title>Doolittle: la inconformidad y el ímpetu</title>
@@ -50,9 +84,9 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 08 Jul 2020 00:00:00 -0500</pubDate>
-        <link>//doolittle.html/</link>
-        <link href="/doolittle.html/"/>
-        <guid isPermaLink="true">/doolittle.html/</guid>
+        <link>http://localhost:4000//doolittle.html/</link>
+        <link href="http://localhost:4000/doolittle.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/doolittle.html/</guid>
       </item>
     
       <item>
@@ -88,9 +122,9 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 13 Jun 2020 00:00:00 -0500</pubDate>
-        <link>//without.html/</link>
-        <link href="/without.html/"/>
-        <guid isPermaLink="true">/without.html/</guid>
+        <link>http://localhost:4000//without.html/</link>
+        <link href="http://localhost:4000/without.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/without.html/</guid>
       </item>
     
       <item>
@@ -129,9 +163,9 @@ principio de debilidad o de ruina.&lt;/li&gt;
 &lt;p&gt;Quizá haya que considerar a la decadencia como un principio apocalíptico de fin y comienzo, la luz baudeleriana que todo lo ilumina se desfragmenta y da paso a los matices, al caos, al derrumbe, pero al mismo tiempo al comienzo. Ser históricos no es estar bajo esa luz de una historia pétrea e inmutable, llena de hechos y verdades, sino es, desde un punto muy subjetivo, ser discurso y construirla junto a uno mismo, desde un punto no lineal sino relacional, que nos permita proclamar una deixis de sucesos que den un amplio abanico de posibilidades. Si el método esta jodido, hay que reinventarlo, ¿cómo lograr esto?, cada quién tendrá su manera, su forma y sobre todo su visión. Por último, no es prudente caer en posiciones ahistóricas o prohistóricas de una forma definitiva, insisto, es más interesante la relación que se puede estableces entre una y otra.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Aug 2017 00:00:00 -0500</pubDate>
-        <link>//reescribir-la-historia.html/</link>
-        <link href="/reescribir-la-historia.html/"/>
-        <guid isPermaLink="true">/reescribir-la-historia.html/</guid>
+        <link>http://localhost:4000//reescribir-la-historia.html/</link>
+        <link href="http://localhost:4000/reescribir-la-historia.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/reescribir-la-historia.html/</guid>
       </item>
     
       <item>
@@ -184,9 +218,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
-        <link>//carl-sandburg-poetica.html/</link>
-        <link href="/carl-sandburg-poetica.html/"/>
-        <guid isPermaLink="true">/carl-sandburg-poetica.html/</guid>
+        <link>http://localhost:4000//carl-sandburg-poetica.html/</link>
+        <link href="http://localhost:4000/carl-sandburg-poetica.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/carl-sandburg-poetica.html/</guid>
       </item>
     
       <item>
@@ -210,9 +244,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;¿De qué hablamos cuando hablamos de poesía contemporánea? Yo digo, al igual que Carver lo dice del amor, de nada.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
-        <link>//de-que-hablamos.html/</link>
-        <link href="/de-que-hablamos.html/"/>
-        <guid isPermaLink="true">/de-que-hablamos.html/</guid>
+        <link>http://localhost:4000//de-que-hablamos.html/</link>
+        <link href="http://localhost:4000/de-que-hablamos.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/de-que-hablamos.html/</guid>
       </item>
     
       <item>
@@ -314,9 +348,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
-        <link>//arcadia-perdida.html/</link>
-        <link href="/arcadia-perdida.html/"/>
-        <guid isPermaLink="true">/arcadia-perdida.html/</guid>
+        <link>http://localhost:4000//arcadia-perdida.html/</link>
+        <link href="http://localhost:4000/arcadia-perdida.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/arcadia-perdida.html/</guid>
       </item>
     
       <item>
@@ -342,9 +376,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;P.S.: Lo realmente lamentable es que la canción más escuchada de Spotify no sea &lt;em&gt;Work&lt;/em&gt;, de Rihanna y, vaya, Drake.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Dec 2016 00:00:00 -0600</pubDate>
-        <link>//berrinches-melomanos.html/</link>
-        <link href="/berrinches-melomanos.html/"/>
-        <guid isPermaLink="true">/berrinches-melomanos.html/</guid>
+        <link>http://localhost:4000//berrinches-melomanos.html/</link>
+        <link href="http://localhost:4000/berrinches-melomanos.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/berrinches-melomanos.html/</guid>
       </item>
     
       <item>
@@ -379,9 +413,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;La estética &lt;em&gt;trash&lt;/em&gt; de Primus radica en justamente el ciclo del humor que marcaba al principio: del humor de impacto banal a, una vez más, el carnavalezco, donde los estamentos son cambiados, y la crítica radical es representada por lo bizarro, la ironía y el sarcasmo, con el fin de olvidar, de abolir el tiempo pasado inmediato que causo, en ese entonces, el presente decadente y sin sentido. La abolición del tiempo, el olvido de la historia, es un ingrediente constitutivo del &lt;em&gt;trash&lt;/em&gt;. Para el filósofo español Eloy Fernández Porta es prioritario considerar que “para el artista &lt;em&gt;trash&lt;/em&gt; el pasado histórico no existe o es un referente nebuloso. Su perspectiva es presentista…” (&lt;em&gt;Homo Sampler&lt;/em&gt;). El tiempo sin tiempo, sin discurso, sin entusiasmo, sin diversión. &lt;em&gt;Mr Krinkle, tell me why?…&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Feb 2013 00:00:00 -0600</pubDate>
-        <link>//estetica-thrash-primus.html/</link>
-        <link href="/estetica-thrash-primus.html/"/>
-        <guid isPermaLink="true">/estetica-thrash-primus.html/</guid>
+        <link>http://localhost:4000//estetica-thrash-primus.html/</link>
+        <link href="http://localhost:4000/estetica-thrash-primus.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/estetica-thrash-primus.html/</guid>
       </item>
     
       <item>
@@ -407,9 +441,9 @@ Let me lift and loosen old fundations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;En mi opinión, la institución literaria debe refrescar su estructura, dar concesiones que puedan, por ejemplo, apelar la decisión del jurado (para los que están muy clavos en eso). El reto es ese, ¿cómo reformular esta institución caducada? Seguramente no son enchiladas, pero lo cierto es que más que quejarse y quedarnos viendo como chinos, es necesario actuar para, insisto, refrescar esta institución viciada. La FIL Guadalajara demostró algo, la crítica no basta, es necesario actuar, tal vez cambiar un poco el triángulo, tal vez darnos cuenta que la FIL y su premio pueden irse al infierno, porque la literatura no nace de los premios o becas, y eso es un alivio.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Oct 2012 00:00:00 -0500</pubDate>
-        <link>//de-las-vestiduras.html/</link>
-        <link href="/de-las-vestiduras.html/"/>
-        <guid isPermaLink="true">/de-las-vestiduras.html/</guid>
+        <link>http://localhost:4000//de-las-vestiduras.html/</link>
+        <link href="http://localhost:4000/de-las-vestiduras.html/"/>
+        <guid isPermaLink="true">http://localhost:4000/de-las-vestiduras.html/</guid>
       </item>
     
   </channel>
