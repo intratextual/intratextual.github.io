@@ -2,7 +2,7 @@
 layout: post
 title: "Cuando el COVID nos alcance"
 description: "Al fin ha ocurrido lo que no necesitaba que ocurriera, el COVID-19, SarsCov2, el Bicho o como desees decir, me atacó."
-date: 2022-06-18
+date: 2022-07-07
 categories: [opinión, diario, COVID-19, Cosas]
 tags: pensamiento enfermedad vivencias testimonio
 permalink: /:title.html/
@@ -13,9 +13,9 @@ author: leon
 
 *La vida apesta*. Cuántas veces no hemos escuchado decir esta chocante frase a adolescentes enojados con el mundo sin motivos más profundos que las cosas que sienten: el amor y su dolor, lo que papi y mami no quieren comprarles, la imposibilidad de que no te toque clase con tus mejores amigos en el nuevo curso. Sí, *la vida apesta*.
 
-No quiero decir que estos incipientes jóvenes estén en un error (si algo es un hecho es que este log está construido alrededor de la melancolía por mi juventud). Nunca antes mejor dicho, es que *la vida apesta* es un **axioma**, algo irrefutable. Puedes decirme una cosa que valga la pena y con facilidad podría sacar al menos cuatro que no. Ojo, no hablo de qué vale más o menos, pues el valómetro de vivencias no interviene en esto. Hablo de que la cantidad de cosas que no valen la pena nos rebasan por mucho.
+No quiero decir que estos incipientes jóvenes estén en un error (si algo es un hecho es que este log está construido alrededor de la melancolía por mi juventud). *La vida apesta* es un **axioma**, algo irrefutable. Puedes decirme una cosa que valga la pena y con facilidad podría sacar al menos cuatro que no. Ojo, no hablo de qué vale más o menos, pues el valómetro de vivencias no interviene en esto. Hablo de que la cantidad de cosas que no valen la pena nos rebasan por mucho.
 
-Cuando esos jóvenes maduren vivirán otras experiencias que les harán decir "*la vida apesta*". De pronto debes pagar impuestos, declararlos, ¡y sacar la maldita constancia de situación fiscal!; también tendrás que trabajar, muchas veces en un lugar que odias, con un sueldo del carajo, rodeado de gente fastidiosa y condiciones laborales poco dignas. Además el amor seguirá siendo un problema en otras dimensiones: divorcios, juicios, pagos/exigencia de pensión alimenticia, ETS, falta de honestidad y demás periplos sexuales; problemas con créditos y los bancos; la muerte de tus seres queridos, y un largo *la vida apesta*.
+Cuando esos jóvenes maduren vivirán otras experiencias que les harán decir "*la vida apesta*". De pronto debes pagar impuestos, declararlos, ¡y sacar la maldita constancia de situación fiscal!; también tendrás que trabajar, muchas veces en un lugar que odias, con un sueldo del carajo, rodeado de gente fastidiosa y bajo condiciones laborales poco dignas; sortear problemas con créditos y los bancos; la muerte de tus seres queridos, y un largo *la vida apesta*. Además el amor seguirá siendo un problema en otras dimensiones: divorcios, juicios, pagos/exigencia de pensión alimenticia, ETS, falta de honestidad y demás periplos sexuales.
 
 Pensemos en el hoy, 07 de julio del 2022. Hay un gran problema de recursos naturales, crisis económica, el ascenso revitalizado del fascismo, feminicidios, estructuras sociales fragmentadas, colapso de la movilidad, crisis inmobiliaria, gentrificación y bueno, no sigo. Creo que cada persona que vive en México sabe de lo que hablo, y si no vives aquí mejor no te cuento porque es terrible, y si vives en México y no sabes de lo que hablo, bueno, supongo tu vida es buena y feliz. El punto es que *la vida apesta*.
 
