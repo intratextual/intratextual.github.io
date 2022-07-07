@@ -2,7 +2,7 @@
 layout: post
 title: "Pensamientos desde el miedo y el odio"
 description: "Por qué demonios no debería encabronarme por algo que no me guste, por qué debo plantar una buena cara cuando no quiero hacerlo, por qué debo tolerar todo en todo momento."
-date:   2022-06-18
+date: 2022-06-18
 categories: [opinión, diario]
 tags: pensamiento estado vivencias acontecer periplos
 permalink: /:title.html/
