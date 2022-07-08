@@ -7,6 +7,7 @@ categories: [pensamientos, opinión, memorias]
 tags: periplos vivencias movimientos-sociales ideas
 permalink: /:title.html/
 author: leon
+header-img: "assets/images/historia.jpg"
 ---
 
 ![Forbes, Archibald: Battles of the nineteenth century (1901)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Battles_of_the_nineteenth_century_%281901%29_%2814783709543%29.jpg/1148px-Battles_of_the_nineteenth_century_%281901%29_%2814783709543%29.jpg)
