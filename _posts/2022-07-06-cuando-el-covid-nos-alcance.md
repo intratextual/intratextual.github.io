@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuando el COVID nos alcance"
-description: "Al fin ha ocurrido lo que no necesitaba que ocurriera, el COVID-19, SarsCov2, el Bicho o como desees decir, me atacó."
+description: "Al fin ha ocurrido lo que no necesitaba que ocurriera, el COVID-19, Sars Cov 2, el Bicho o como desees decirle, me atacó."
 date: 2022-07-07
 categories: [opinión, diario, COVID-19, Cosas]
 tags: pensamiento enfermedad vivencias testimonio
@@ -26,3 +26,5 @@ Ayer dí positivo por COVID-19. Por supuesto que estoy asustado. Es una enfermed
 Las personas que me conocen saben que no soy un tipo muy positivo, e incluso puedo llegar a ser antipático. Pero amo la vida y amo vivirla (no en un sentido provida, obvio), y amo poder abrazar y sonreírles a mis seres queridos, bromear, salir a tomar una cerveza, leer poesía, aprender, esforzarme y dar lo mejor de mí en lo que me interesa darlo. *La vida apesta*, no pienso refutar eso, pero tampoco quiero que termine porque sé que aún tengo mucho que dar. Y en el fondo, por más negativo que pueda parecerte, estoy convencido de que las cosas pueden cambiar. Quizá, si salgo de esta, pueda escribir de mis sueños y utopías, quizá...
 
 Hoy escribo desde el miedo.
+
+&#x2762;
