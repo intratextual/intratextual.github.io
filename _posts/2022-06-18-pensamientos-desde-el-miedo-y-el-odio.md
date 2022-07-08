@@ -9,7 +9,7 @@ permalink: /:title.html/
 author: leon
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6d/D%C3%A9mon_d%27assassinat.png)
+![Démon d'assassinat (1863)](https://upload.wikimedia.org/wikipedia/commons/6/6d/D%C3%A9mon_d%27assassinat.png)
 
 No sé expresar mi odio. No es algo que jamás haya hecho, si no que es algo que he olvidado hacer. Con esto no quiero decir que no odie; todo lo contrario, siento que mi odio hacia las cosas y hacia mí ha crecido de una manera exponencial en los últimos años. Lo que sucede es que he olvidado cómo canalizar este odio. Peor aún, me siento culpable por odiar, como si un fuete imaginario arremetiera contra mí cuando de mis entrañas comenzara siquiera a materializarse el profundo desprecio y repugnancia que generalmente siento.
 
