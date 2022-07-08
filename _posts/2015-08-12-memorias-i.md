@@ -3,8 +3,8 @@ layout: post
 title: "Memorias I"
 description: "La escritura es exclusión, la gran mayoría de las veces... Entrada rescatada de un Tumblr que no pude rescatar."
 date: 2015-08-12
-categories: [literatura, poesía, escritores]
-tags: pensamiento ideas memorias
+categories: [pensamientos, opinión, memorias]
+tags: literatura poesía escritores
 permalink: /:title.html/
 author: leon
 ---
@@ -16,3 +16,7 @@ Hace algunos años pensaba que la condición de la escritura era propicia para u
 Sin embargo parece que eso a nadie [o casi a nadie] le preocupa. Tengo que aceptar bochornosamente que durante gran parte de mi juventud busqué desesperadamente ingresar a aquella vitrina de las letras, escribía ensayos académicos *chic* para simposios *avantgarde* [porque uno es siempre ruptura, claro], poesía experimental y narrativas disruptivas. Desde luego que el don de la escritura es acompañado por la pericia de la palabra y el performance, o viceversa, y así tenemos que una farsa lleva a la otra hasta que estas se convierten en una suerte de matrioska. La diferencia que encontré entre aquellos escritores y académicos ~~[o ambos a la vez]~~ conmigo es que yo no podía mantener mucho tiempo la farsa, siempre había algo que me delataba, mal escritor, mal verbo, mal mentiroso, mal performance, o todas a la vez. En ocasiones podía dar una perorata vacía sobre un poema de Borges para explicar la situación global de la sociedad contemporánea, también podía estudiar a los teóricos pos[t]estructuralistas para emitir un comentario oportuno e interesante en algún foro de opinión, cafetería o restaurante.
 
 No sabría decir en qué momento abandoné aquella idea de *unirme al club*, de córtarme el cuerpo mientras leo un poema, de aún no tener ni la mediana edad y organizar lecturas de mi cuarta novela, de ser un bulímico de las letras, erudito sin remedio, de ser un ganador de premios y becas; caí en cuenta de que me quedé pasmado observando como un sinnúmero de escritores salía de la caverna platónica en la que nos encontrábamos viendo sombras sólo para quedar cegados o confundidos, salieron para crear imágenes, para expresarse, para tener obra, fama, para expresarse, para hacer nuevas ilusiones, nuevas sombras, protagonistas de los que aún están en la caverna, para expresarse, para ser libres, para ser felices, para ser tristes, para protestar, para expresarse. Yo quedé en el umbral de la cueva.
+
+&#9753;
+
+*Texto original: [tumblr](https://der-strafbomber-blog.tumblr.com/post/126488541237/i)*
