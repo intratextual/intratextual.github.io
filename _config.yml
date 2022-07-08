@@ -30,7 +30,14 @@ plugins:
 # Custom variables
 owner : "Alberto R. León | @intratextual"
 year : "2021"
-google_analytics: "UA-201129882-1"
+#google_analytics: "UA-201129882-1" se cambia por el 2C_NGA_62542
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-KS8PT40HK6"
+    anonymize_ip         : # true, false (default)
 
 collections:
   tags:
