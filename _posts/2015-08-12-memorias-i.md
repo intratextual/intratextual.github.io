@@ -9,7 +9,7 @@ permalink: /:title.html/
 author: leon
 ---
 
-![Jan Pietersz Saenredam after Cornelis Cornelisz van Haarlem, Plato's Cave, 1604, NGA 62542.jpg](https://upload.wikimedia.org/wikipedia/commons/8/85/Jan_Pietersz_Saenredam_after_Cornelis_Cornelisz_van_Haarlem%2C_Plato%27s_Cave%2C_1604%2C_NGA_62542.jpg?uselang=es)
+![Jan Pietersz Saenredam after Cornelis Cornelisz van Haarlem, Plato's Cave, 1604, NGA 62542.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jan_Pietersz_Saenredam_after_Cornelis_Cornelisz_van_Haarlem%2C_Plato%27s_Cave%2C_1604%2C_NGA_62542.jpg/640px-Jan_Pietersz_Saenredam_after_Cornelis_Cornelisz_van_Haarlem%2C_Plato%27s_Cave%2C_1604%2C_NGA_62542.jpg?uselang=es)
 
 Hace algunos años pensaba que la condición de la escritura era propicia para un objetivo adicional al de plasmar grafías sobre una superficie. Hablo de actos sociales circundantes al mero hecho de la comunicación básica, por ejemplo el reconocimiento. El valor de la palabra escrita es culturalmente un mazazo en la cabeza de aquella persona que por diversas circunstancias no puede acceder a su entendimiento; no sólo me refiero a la condición socioeconómica precaria que padece la mayoría de la gente en mi país, sino a condiciones físicas y psíquicas que hacen inaccesible su entendimiento. Este texto, vaya paradoja, creado desde un punto marginal se vuelve a la vez un documento que engrosa los miles de millones de caracteres tipeados que jamás serán leídos/escuchados/interpretados por una cantidad incontable de “lectores” potenciales. *La escritura es exclusión, la gran mayoría de las veces*.
 
